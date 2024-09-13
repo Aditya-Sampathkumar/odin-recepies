@@ -1,0 +1,2 @@
+This my first step into learning Full stack web development and I am going to be using the skills I have acquired to far to create a recepies page(using only HTML) and then push it in to GitHub. 
+Fingers crossed. Hope everything goes well.
